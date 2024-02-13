@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="52bd1863-cae7-47d7-9425-8ea595277cae" name="docrobot" url="http://docrobotru.twc1.net/">
+        <fileTransfer rootFolder="/home/bitrix/www" accessType="SFTP" host="81.200.158.220" port="22" sshConfigId="7d45b7e3-a21d-4d88-abd4-bf74a23f9332" sshConfig="root@81.200.158.220:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
